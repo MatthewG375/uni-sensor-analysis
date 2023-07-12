@@ -3,7 +3,7 @@
 My university dissertation project, an application to monitor the data output by environmental sensor boxes, and to help ensure sensor integrity.
 
 ## Installation
-The application is opened by running a .py file, and to run the application all modules used in the program must be installed on the user’s machine, along with a Python 3 install. 
+The application is opened by running a .py file, and to run the application all modules used in the program must be installed on the user’s machine, along with a Python 3 install. The requirements.txt file contains the non-standard Python modules needed for this project
 
 ## Main App
 Upon opening the program, the user is greeted with the main screen, without a graph but with the buttons to select graphs on the left and the empty list box on the right.
